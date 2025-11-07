@@ -71,7 +71,7 @@ class About extends Component {
                     className="about-subscribe-button"
                     href={videoSection.subscribeHref}
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                   >
                     {videoSection.subscribeCta}
                     <svg
@@ -97,7 +97,7 @@ class About extends Component {
                     <a
                       href={videoSection.introLinkHref}
                       target="_blank"
-                      rel="noreferrer"
+                      rel="noopener noreferrer"
                       className="about-video-link"
                       style={{ color: theme.text }}
                     >

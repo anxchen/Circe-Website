@@ -49,7 +49,13 @@ const ToggleContainer = styled.button`
 const Toggle = ({ theme, toggleTheme }) => {
   const isLight = theme === "light";
   return (
-    <ToggleContainer onClick={toggleTheme}>
+    <ToggleContainer
+      onClick={toggleTheme}
+      type="button"
+      aria-pressed={isLight}
+      aria-label={isLight ? "Switch to dark mode" : "Switch to light mode"}
+      title={isLight ? "Switch to dark mode" : "Switch to light mode"}
+    >
       <SunIcon />
       <MoonIcon />
     </ToggleContainer>
