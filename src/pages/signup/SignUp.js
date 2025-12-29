@@ -43,6 +43,12 @@ const BREVO_STYLE_BLOCK = `
     color: #c0ccda;
   }
 
+  #sib-container input,
+  #sib-container textarea,
+  #sib-container select {
+    color: #1a1f2b !important;
+  }
+
   #sib-container a {
     text-decoration: underline;
     color: #2BB2FC;
@@ -84,7 +90,7 @@ const BREVO_FORM_HTML = `
           <div style="padding: 8px 0;">
             <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
               <div class="sib-text-form-block">
-                <p>We're welcoming a limited group of storytellers to help shape Genesis.</p>
+                <p>We're welcoming a limited group of storytellers to help shape Saga.</p>
               </div>
             </div>
           </div>

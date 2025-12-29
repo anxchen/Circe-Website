@@ -7,8 +7,8 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Genesis",
-  logo_name: "Genesis",
+  title: "Saga",
+  logo_name: "Saga",
   nickname: null,
   tagline: "No editing. No bottleneck. Just Storytelling.",
   description:
@@ -47,7 +47,7 @@ const about = {
   },
   videoSection: {
     introLead:
-      "Follow along with our trials and tribulations using Genesis to tell",
+      "Follow along with our trials and tribulations using Saga to tell",
     introLinkText: "our stories.",
     introLinkHref: "https://www.youtube.com/channel/UC1Trt366nOZdzauxlorGWcQ",
     channelName: "Camp Cambrian",
@@ -61,9 +61,9 @@ const about = {
 const signUpContent = {
   title: "Sign up for early access",
   subtitle:
-    "We're welcoming a limited group of storytellers to help shape Genesis. Share your email and we'll reach out with next steps.",
+    "We're welcoming a limited group of storytellers to help shape Saga. Share your email and we'll reach out with next steps.",
   subtitleLines: [
-    "We're welcoming a limited group of storytellers to help shape Genesis.",
+    "We're welcoming a limited group of storytellers to help shape Saga.",
     "Share your email and we'll reach out with next steps.",
   ],
   emailPlaceholder: "you@example.com",

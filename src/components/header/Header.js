@@ -3,8 +3,8 @@ import "./Header.css";
 import { Fade } from "react-reveal";
 import { NavLink, Link } from "react-router-dom";
 import { greeting } from "../../landing.js";
-import lightLogo from "../../assests/images/BlueLight_GenesisLogo.png";
-import darkLogo from "../../assests/images/BlueDark_GenesisLogo.png";
+import lightLogo from "../../assests/images/BlueLight_SagaLogo.png";
+import darkLogo from "../../assests/images/BlueDark_SagaLogo.png";
 
 const onMouseEnter = (event, color) => {
   const el = event.target;
@@ -27,7 +27,7 @@ class Header extends Component {
         <div>
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">
-              <img src={logoSrc} alt="Genesis logo" className="logo-mark" />
+              <img src={logoSrc} alt="Saga logo" className="logo-mark" />
               <span style={{ color: theme.text }}> &lt;</span>
               <span className="logo-name" style={{ color: theme.text }}>
                 {greeting.logo_name}

@@ -10,7 +10,7 @@ import { greeting } from "../../landing.js";
 const contactContent = {
   title: "Let's Stay in Touch",
   description:
-    "We’re currently heads-down building Genesis with our early storytellers. Follow along and reach out if you’d like to collaborate.",
+    "We're currently heads-down building Saga with our early storytellers. Follow along and reach out if you'd like to collaborate.",
   profileImage: "tasin.png",
 };
 
@@ -26,7 +26,7 @@ class Contact extends Component {
               <div className="contact-heading-img-div">
                 <img
                   src={require(`../../assests/images/${contactContent.profileImage}`)}
-                  alt="Genesis contact"
+                  alt="Saga contact"
                 />
               </div>
               <div className="contact-heading-text-div">

@@ -36,8 +36,8 @@ import { blueTheme, darkTheme } from "./theme";
 import { GlobalStyles } from "./global";
 import Footer from "./components/footer/Footer";
 import { HashRouter } from "react-router-dom";
-import lightFavicon from "./assests/images/BlueLight_GenesisLogo.png";
-import darkFavicon from "./assests/images/BlueDark_GenesisLogo.png";
+import lightFavicon from "./assests/images/BlueLight_SagaLogo.png";
+import darkFavicon from "./assests/images/BlueDark_SagaLogo.png";
 
 function App() {
   console.log("starting");

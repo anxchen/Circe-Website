@@ -9,7 +9,7 @@ const FEATURES = [
     id: "upload",
     title: "Upload your media",
     description:
-      "Drag and drop your footage or assets straight into Genesis to kick off a new edit without ever leaving the browser.",
+      "Drag and drop your footage or assets straight into Saga to kick off a new edit without ever leaving the browser.",
     Icon: function UploadIcon({ className }) {
       return (
         <svg
@@ -40,9 +40,9 @@ const FEATURES = [
   },
   {
     id: "story",
-    title: "Genesis recommends story chapters",
+    title: "Saga recommends story chapters",
     description:
-      "Let Genesis surface smart story beats and assemble them into chapters so you can focus on crafting the narrative.",
+      "Let Saga surface smart story beats and assemble them into chapters so you can focus on crafting the narrative.",
     Icon: function StoryIcon({ className }) {
       return (
         <svg
