@@ -71,7 +71,7 @@ function App() {
   }, [theme]);
 
   if (!componentMounted) {
-    return <div />;
+    return <div>Loading...</div>;
   }
 
   return (

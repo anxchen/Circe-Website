@@ -8,12 +8,12 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Saga",
-  logo_name: "Saga",
+  logo_name: "Circe",
   nickname: null,
   tagline: "No editing. No bottleneck. Just Storytelling.",
   description:
-    "The storytelling studio for ,everyday historians transforming raw footage and oral stories into structured long-form narratives.",
-  ctaText: "Sign up",
+    "The storytelling studio for ,everyday historians transforming raw footage into structured long-form narratives.",
+  ctaText: "Sign up for Updates",
   ctaLink: "#/signup",
   resumeLink:
     "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
@@ -25,8 +25,8 @@ const whatWeDo = {
   subheading: "Bridge the editor-storyteller divide",
   paragraphs: [
     "We believe video editing should feel like a conversation.",
-    "Oftentimes, turnaround from filming to sharing can take days, weeks, and even years to review, edit, and release. Especially for at-home creatives, who just want to create and share videos for fun, the need to organize and scroll through footage or learn a new editing software takes away from the main focus: Telling stories!",
-    "We often don't have (or want) to spend free time editing. And we don't have to.",
+    "Oftentimes, filming to sharing videos can take days, weeks, and even years to review, edit, and release. For at-home creatives who want to create and share videos for fun, the need to organize hours of footage or learn a new editing software takes away from the main focus: Telling Stories.",
+    "Who wants to spend hours editing when you could spend hours capturing memories instead? Not us. ✋🏼",
   ],
   socialsBanner: {
     message: "Follow our socials for the latest news.",
@@ -36,8 +36,8 @@ const whatWeDo = {
 const about = {
   title: "About Us.",
   introParagraphs: [
-    "Inspired by home-videos that many families inevitably keep for themselves. Hours and hours of footage, decades of stories untold, personal stories, and inside jokes told only through word of mouth.",
-    "Our team of family and friends want to empower other individuals and communities to tell their stories.",
+    "Inspired by home-videos that many families hold onto within their homes and even loose overtime. Hours of footage, decades of stories untold, personal stories, and inside jokes that fade away when there is no outlet to share and pass on the memories.",
+    "Our team of family and friends want to empower other community historians to tell their stories, their way.",
   ],
   manifesto: {
     heading: "Not through shorts.",
