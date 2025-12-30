@@ -1,5 +1,5 @@
 {
-  "name": "Genesis Storytelling Studio",
+  "name": "Saga Storytelling Studio",
   "background_color": "#ffffff",
   "display": "standalone",
   "icons": [
@@ -40,7 +40,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "Genesis",
+  "short_name": "Saga",
   "start_url": ".",
   "theme_color": "#000000"
 }
