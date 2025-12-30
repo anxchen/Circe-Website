@@ -107,7 +107,7 @@ const socialMediaLinks = [
   },
   {
     name: "X",
-    link: "https://x.com/CambrianCa60271",
+    link: "https://x.com/Saga_it_now",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
