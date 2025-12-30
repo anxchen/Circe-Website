@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e56816c8bd2a48eaa104dd97cfdf2a17",
+    "revision": "6835ba42a062fa88d02e313102d712aa",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.2e7eabf8.chunk.css"
   },
   {
-    "revision": "4ed52b73ac039c7c56f0",
+    "revision": "d5bed49a342bc59679b3",
     "url": "/static/css/main.f021a9bb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5f695678.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ed52b73ac039c7c56f0",
-    "url": "/static/js/main.7f39aae1.chunk.js"
+    "revision": "d5bed49a342bc59679b3",
+    "url": "/static/js/main.6090e2fe.chunk.js"
   },
   {
     "revision": "bcd5a2778f5ee448509d",
@@ -33,11 +33,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "31b34024ab27deeb4342d4a8eed7f3f6",
-    "url": "/static/media/BlueDark_GenesisLogo.31b34024.png"
+    "url": "/static/media/BlueDark_SagaLogo.31b34024.png"
   },
   {
     "revision": "b1e0586408c88d32a075c60da6515f87",
-    "url": "/static/media/BlueLight_GenesisLogo.b1e05864.png"
+    "url": "/static/media/BlueLight_SagaLogo.b1e05864.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
